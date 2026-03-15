@@ -2,7 +2,7 @@
 **Full-Stack Developer | AI-Powered Web Systems | Cloud & Automation Specialist**  
 📍 Nigeria · Open to Remote/Hybrid Roles  
 📧 [durupristine@gmail.com](mailto:durupristine@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/duru-favour-chinaza-b94158224/)  
+💼 [LinkedIn](https://www.linkedin.com/in/durupristine/) 
 🔗 [GitHub](https://github.com/Favourduru24)  
 🌐 [Portfolio](https://portfolio-bay-rho-90.vercel.app)  
 
